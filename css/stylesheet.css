@@ -12,3 +12,6 @@ p {
   text-align: center;
   font-size: medium;
 }
+body {
+  background-color: orange;
+}
